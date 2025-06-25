@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter 
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: logs or temp files
+*.log
+*.tmp
