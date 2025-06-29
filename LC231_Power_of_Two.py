@@ -1,3 +1,5 @@
+from math import log2
+
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         if n <= 0:
